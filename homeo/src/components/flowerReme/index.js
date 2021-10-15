@@ -4,7 +4,7 @@ import Remedies from './remedies'
 const FlowerReme=(props)=>{
     return(
 <div>
-        <Remedies
+    <Remedies
        sintoma="pânico extremos e o terror absoluto."
        nameTratamento="Terapia floral."
     

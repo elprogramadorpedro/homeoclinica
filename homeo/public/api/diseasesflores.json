@@ -1,0 +1,13 @@
+{
+    "Doencas":[
+        {
+            "id":"pânico extremos",
+            "description":"pânico extremos e o terror absoluto.",
+            "nameTratamento":"pânico extremos e o terror absoluto."
+/*amanha adiciono mais cosisas para nossa api*/
+        },
+        {
+
+        }
+    ]
+}
